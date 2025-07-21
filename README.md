@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Kotwal</h1>
-<h3 align="center">A Passionate Developer | MERN Stack Enthusiast | Future Engineer</h3>
+<h3 align="center">A Passionate Java & MERN Stack Developer | GSSoC'25 Contributor | Future Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/MayurKotwal"><img src="https://img.shields.io/github/followers/MayurKotwal?label=GitHub&style=social" alt="GitHub"></a>
@@ -13,27 +13,25 @@
 ### 💡 About Me
 
 - 🎓 B.Tech in Computer Engineering @ MIT AOE, Pune (Batch 2027)
-- 🧠 Currently exploring **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**
-- 🚀 Passionate about building real-world applications using the **MERN Stack**
-- 💻 Solved 80+ DSA problems on LeetCode
-- 📚 Presented a research paper on AI at a college-level conference
+- 💻 Full-Stack Developer with experience in both **Java Spring Boot Microservices** and **MERN Stack**
+- 🚀 Contributor at **GirlScript Summer of Code 2025 (GSSoC’25)**
+- 🧠 Exploring **AI/ML**, **System Design**, and **Backend Architecture**
+- 📈 Solved **150+ DSA problems** on LeetCode
+- 🗣️ Presented a research paper on AI at a national-level college conference
 
 ---
 
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
@@ -43,26 +41,23 @@
 
 ### 📌 Projects
 
-#### 🎭 Emotion Recognition System
-> Real-time facial expression classifier using Python, OpenCV & TensorFlow  
-> 🔹 Accuracy: 85% | Applications: HCI & UX optimization
+#### 🛒 RentCart – Microservices-Based Rental Platform
+> A full-stack rental cart application built using **Java Spring Boot Microservices**, **React**, **MongoDB Atlas**, **Docker**, and **Razorpay** integration  
+> 🔹 Features: Product listing, order service, authentication, payment gateway, admin panel
 
 #### ✍️ Real-Time Collaborative Text Editor
-> Peer-to-peer text editing and file sharing using WebRTC | Secure, private & low-latency  
+> A secure P2P editor for text & file sharing using **WebRTC** | Private, low-latency collaboration with no cloud backend
 
-#### 🛒 MERN Stack E-Commerce App
-> Full-stack store with product management, payments, authentication, and admin panel  
-
-#### 🎵 Music Player Web App
-> Spotify-inspired music streaming platform using React & Node.js with real-time features
+#### 🎭 Emotion Recognition System
+> Real-time emotion classifier built using **Python**, **OpenCV**, and **TensorFlow**  
+> 🔹 Accuracy: 85% | Applications: HCI, UX feedback, assistive tech
 
 ---
 
 ### 👨‍💻 Coding Stats
 
-- 🔢 **LeetCode:** 80+ DSA problems solved
-- 🥇 **CodeChef:** 1-Star (and climbing!)
-- 🧩 Loves debugging, optimization, and clean code
+- 🔢 **LeetCode:** 150+ problems solved
+- 🧩 Enjoys debugging, design thinking, and clean code architecture
 
 ---
 
@@ -84,4 +79,4 @@
 
 ---
 
-⭐ _"Building projects that solve problems and scale ideas."_  
+⭐ _"Code. Learn. Contribute. Repeat."_  

@@ -1,4 +1,4 @@
-<h1 align="center">Mayur Kotwal</h1>
+<h1 align="center">Hi 👋, I'm Mayur Kotwal</h1>
 <h3 align="center">Backend Developer | Microservices | AWS</h3>
 
 <p align="center">
@@ -18,37 +18,55 @@
 
 ---
 
-## About Me
+## 💡 About Me
 
 - 🎓 B.Tech Computer Engineering @ MIT AOE, Pune (2027)
-- 💻 Focused on backend development and scalable system design
-- 🏗️ Building microservices using **Java & Spring Boot**
+- 🏗️ Focused on backend engineering and scalable architectures
+- 🚀 Building microservices using **Java & Spring Boot**
 - ☁️ Hands-on with **AWS EC2 & S3**, currently learning **AWS Lambda & Serverless**
 - 🧠 Built AI-integrated systems including a voice-based call agent and emotion recognition model
-- 📈 Solved 150+ DSA problems
+- 📈 Solved 150+ DSA problems on LeetCode
 
-I enjoy designing clean backend architectures, writing maintainable APIs, and understanding how systems behave at scale.
-
----
-
-## Tech Stack
-
-### Backend
-`Java` `Spring Boot` `Microservices` `REST APIs` `MySQL` `MongoDB`
-
-### Cloud & DevOps
-`AWS EC2` `AWS S3` `AWS Lambda (Learning)` `Docker` `Linux` `Git`
-
-### AI / ML
-`Python` `TensorFlow` `OpenCV` `Speech Processing`
+I enjoy designing clean APIs, structuring backend systems properly, and understanding how applications behave at scale.
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
+
+### 💻 Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat"/>
+  <img src="https://img.shields.io/badge/Speech%20Processing-8A2BE2?style=flat"/>
+</p>
+
+---
+
+## 📌 Projects
 
 ### 🛒 RentCart – Microservices Rental Platform
-A scalable rental marketplace built using Spring Boot microservices architecture with separate services for authentication, orders, and item management.  
-Integrated MongoDB, Docker, and payment workflows.
+A scalable rental marketplace built using **Spring Boot microservices** with separate services for authentication, orders, and item management.  
+Integrated **MongoDB**, **Docker**, and payment workflows.
 
 ---
 
@@ -58,19 +76,20 @@ Voice-based AI system integrating speech recognition with backend automation log
 ---
 
 ### 🎭 Emotion Recognition System
-Real-time facial emotion detection using deep learning (TensorFlow + OpenCV).  
-Applied for human-computer interaction and user experience analysis.
+Real-time facial emotion detection using deep learning (**TensorFlow + OpenCV**).  
+Applied in human-computer interaction and UX analysis.
 
 ---
 
-## Coding
+## 📈 Coding & Learning
 
 - 🔢 150+ problems solved on LeetCode  
-- 📚 Actively studying System Design & Distributed Systems  
+- 📚 Studying System Design & Distributed Systems  
+- ☁️ Exploring Serverless Architectures on AWS  
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayurKotwal&show_icons=true&theme=github_dark&count_private=true" height="160"/>
@@ -79,7 +98,7 @@ Applied for human-computer interaction and user experience analysis.
 
 ---
 
-## Connect
+## 📬 Connect With Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mayurkotwal/)
 - 💻 [GitHub](https://github.com/MayurKotwal)
